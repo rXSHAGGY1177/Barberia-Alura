@@ -1,0 +1,59 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+
+img {
+    animation: fadeIn 3s ease;
+}
+
+
+@keyframes fadeIN {  
+    0% { 
+        opacity: 0;
+    }   
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color:red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+    margin-right: 30%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
+
+
+/*
+*/
